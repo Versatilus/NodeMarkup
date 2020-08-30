@@ -196,10 +196,10 @@ Tuto akci nelze vrátit zpět</value>
     <value>Dvojitá přerušovaná</value>
   </data>
   <data name="LineStyle_DoubleSolid" xml:space="preserve">
-    <value>Dvojitá nepřerušovaná</value>
+    <value>Dvojitá plná</value>
   </data>
   <data name="LineStyle_Solid" xml:space="preserve">
-    <value>Nepřerušovná</value>
+    <value>Plná</value>
   </data>
   <data name="MessageBox_No" xml:space="preserve">
     <value>Ne</value>
@@ -396,7 +396,7 @@ Drž Shift pro vytvoření přechodu</value>
     <value>Plná i přerušovaná</value>
   </data>
   <data name="LineStyle_Stop" xml:space="preserve">
-    <value>Nepřerušovná</value>
+    <value>Plná</value>
   </data>
   <data name="Tool_InfoDeleteStopLine" xml:space="preserve">
     <value>Klikněte pro odstranění hranice křižovatky</value>
@@ -456,7 +456,7 @@ Drž Shift pro vytvoření přechodu</value>
     <value>Výchozí</value>
   </data>
   <data name="FillerStyle_Solid" xml:space="preserve">
-    <value>Nepřerušovná</value>
+    <value>Plná</value>
   </data>
   
   
@@ -474,7 +474,7 @@ Drž Shift pro vytvoření přechodu</value>
   </data>
   
   <data name="LineStyle_StopDouble" xml:space="preserve">
-    <value>Dvojitá nepřerušovaná</value>
+    <value>Dvojitá plná</value>
   </data>
   <data name="LineStyle_StopDoubleDashed" xml:space="preserve">
     <value>Dvojitá přerušovaná</value>
@@ -495,7 +495,7 @@ Drž Shift pro vytvoření přechodu</value>
     <value>Prohodit</value>
   </data>
   <data name="Filler_Turn" xml:space="preserve">
-    <value>Odbočka</value>
+    <value>Otočit</value>
   </data>
   <data name="LineEditor_EmptyMessage" xml:space="preserve">
     <value>Na této křižovatce nejsou žádné čáry.
@@ -784,7 +784,7 @@ nebo odstranění přechodu</value>
     <value>Žádné šablony</value>
   </data>
   <data name="CrosswalkStyle_Solid" xml:space="preserve">
-    <value>Nepřerušovná</value>
+    <value>Plná</value>
   </data>
   <data name="LineStyle_CrosswalkGroup" xml:space="preserve">
     <value>Čáry přechodů</value>
