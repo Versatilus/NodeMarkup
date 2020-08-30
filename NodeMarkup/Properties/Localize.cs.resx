@@ -371,7 +371,7 @@ Drž Shift pro vytvoření přechodu</value>
     <value>Co je nového v {0}</value>
   </data>
   <data name="Settings_ShowWhatsNew" xml:space="preserve">
-    <value>Zobrazit novinky</value>
+    <value>Zobrazovat novinky</value>
   </data>
   
   <data name="Settings_Import" xml:space="preserve">
@@ -467,7 +467,7 @@ Drž Shift pro vytvoření přechodu</value>
     <value>Oznámení</value>
   </data>
   <data name="Settings_ShowOnlyMajor" xml:space="preserve">
-    <value>Oznámení pouze o významných aktualizacích</value>
+    <value>Oznamovat pouze o významných aktualizacích</value>
   </data>
   <data name="Settings_AddNewFiller" xml:space="preserve">
     <value>Přidat výplň</value>
@@ -698,10 +698,10 @@ Pro vytvoření přechodu drž Shift.</value>
     <value>Hranice křižovatky</value>
   </data>
   <data name="Settings_GroupLines" xml:space="preserve">
-    <value>Skupinové čáry</value>
+    <value>Seskupovat čáry</value>
   </data>
   <data name="Settings_GroupTemplates" xml:space="preserve">
-    <value>Skupinové šablony</value>
+    <value>Seskupovat šablony</value>
   </data>
   <data name="Tool_InfoCreateCrosswalk" xml:space="preserve">
     <value>Klikněte pro vytvoření přechodu</value>
