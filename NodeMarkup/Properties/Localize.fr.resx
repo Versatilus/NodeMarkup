@@ -806,7 +806,7 @@ créer ou supprimer un passage piéton</value>
   </data>
   
   <data name="Mod_LoadFailed" xml:space="preserve">
-    <value>Le chargement s'est abouti avec des erreurs.
+    <value>Erreurs lors du chargement.
 Le marquage de {0} intersections n'a pas pu être chargé.</value>
   </data>
   <data name="Mod_Support" xml:space="preserve">
